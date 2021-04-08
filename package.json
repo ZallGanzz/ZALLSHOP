@@ -1,5 +1,5 @@
 {
-  "name": "ZallBroo",
+  "name": "babybot",
   "version": "3.0.0",
   "description": "NUMPANG NAMA TIDAK MEMBUAT MU PRO",
   "main": "ramlan.js",
@@ -16,8 +16,8 @@
   },
   "keywords": [
     "botwa",
-    "Zall",
-    "Shop",
+    "ramlan",
+    "babybot",
     "whatsapp"
   ],
   "author": "Ramlan ID",
